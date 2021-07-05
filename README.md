@@ -1,1 +1,1 @@
-# shape-ai-project-md5
+# shape-ai-project-hashing
